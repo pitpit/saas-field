@@ -2,7 +2,11 @@
 
 A sandbox with webpack + saas-loader to demonstrate how to use "resolve" in webpack to resolve 3rd party scss files from fields "saas" or "style" in package.json.
 
-Build it with:
+Install dependencies:
+
+    npm i
+
+Build webpack bundle with:
 
     npm run build
 
